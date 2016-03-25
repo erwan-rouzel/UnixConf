@@ -1,0 +1,5 @@
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+
+# removes the annoying "-- more --" prompt for long lists
+set page-completions off  
